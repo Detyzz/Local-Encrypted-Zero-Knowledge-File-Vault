@@ -35,8 +35,8 @@ A small command-line file vault that encrypts and decrypts files locally with AE
 1. Clone your repository and open the project folder.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Detyzz/Local-Encrypted-Zero-Knowledge-File-Vaultgit
+cd Local-Encrypted-Zero-Knowledge-File-Vault
 ```
 
 2. Create a virtual environment.
